@@ -1,12 +1,12 @@
 
 
-# Particle Life Simulation
-A simple program to simulate primitive Artificial Life using simple rules of attraction or repulsion among atom-like particles, producing complex self-organzing life-like patterns. Excluding the GUI elements, the code is less than a page. The video tutorial and walkthrough are available below.
+# 粒子寿命模拟
 
-Online Demo (JavaScript version):
+一个简单的程序，使用原子粒子之间的简单吸引或排斥规则来模拟原始的人工生命，产生复杂的自组织生命模式。
+
 -------------
-Click here for a live demo (JavaScript): 
-  - 2d - https://hunar4321.github.io/particle-life/particle_life.html
-  - 3d - https://hunar4321.github.io/particle-life/particle_life_3d.html
+两个版本: 
+  - 二维 - https://partlife.buxiantang.top/particle_life.html
+  - 三维 - https://partlife.buxiantang.top/particle_life_3d.html
   
 
