@@ -16,7 +16,11 @@
             justify-content: center;
             align-items: center;
         }
-
+        h1 {
+            text-align: center; /* Center the title text */
+            color: white; /* Set the text color to white */
+            margin-bottom: 20px; /* Add some space below the title */
+        }
         #canvas {
             border: #504e52;
             border-style: dashed;
@@ -28,6 +32,7 @@
 </head>
 
 <body>
+    <h1>粒子寿命模拟</h1> <!-- Add this line for the title -->
     <!-- 'tabindex' is a trick to make the canvas capture key events -->
     <canvas id="canvas" tabindex="1"></canvas>
 
